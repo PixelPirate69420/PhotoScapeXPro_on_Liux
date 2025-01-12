@@ -33,10 +33,15 @@ For a more comfortable daily use follow the next steps as well:
 -type in there: wine PhotoScapeXPro.exe
 -leave nano
 -type in terminal: chmod +x start.sh
+
 14. go back to lutris
+
 15. add local game
+
 16. call it "PhotoScapeXPro"
+
 17. select it to be run through Linux
+
 18. select it to execute the new start.sh script for PhotoScapeXPro
 
 And now, you can run PhotoScapeXPro at the press of a button with good stability and near native performance, enjoy :D
