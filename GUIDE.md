@@ -19,6 +19,7 @@ Tested on Debian 12.8
 7. go through the PhotoScapeXPro setup and install it in partition Z:\
 8. type in terminal: winecfg
 9. go to graphics and check to emulate desktop.
+9.5 check the compatibilty mode to be set to Windows 10/11 if needed
 10. run command: wine PhotoScapeXPro.exe (in the folder where PhotoScapeXPro files are installed)
 
 From this point on, the application should run fine, especially the fonts (except: noto, it still crashes sometimes).
