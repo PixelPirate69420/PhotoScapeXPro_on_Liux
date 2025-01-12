@@ -29,9 +29,13 @@ For a more comfortable daily use follow the next steps as well:
 11. install lutris (https://lutris.net/)
 12. navigate to the folder of PhotoScapeXPro
 13. create a script in terminal for starting the executable:
+
 -nano start.sh
+
 -type in there: wine PhotoScapeXPro.exe
+
 -leave nano
+
 -type in terminal: chmod +x start.sh
 
 14. go back to lutris
