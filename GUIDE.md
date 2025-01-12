@@ -27,6 +27,7 @@ Why emulate a desktop? PhotoScapeXPro uses PyQt5 for GUI and Windows and Linux i
 when running the application dirrectly on X11 or Wayland Desktop Environments. Not to mention that it might crash the whole application when selecting fonts.
 
 For a more comfortable daily use follow the next steps as well:
+
 11. install lutris (https://lutris.net/)
 
 12. navigate to the folder of PhotoScapeXPro
