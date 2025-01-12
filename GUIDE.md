@@ -1,5 +1,6 @@
 # PhotoScapeXPro_on_Linux
 This repo will cover my personal method in which i managed to get PhotoScape_X_Pro.exe to run properly with actual fonts
+
 Tested on Debian 12.8
 
 1. install wine from https://www.winehq.org/
@@ -37,6 +38,7 @@ For a more comfortable daily use follow the next steps as well:
 -leave nano
 
 -type in terminal: chmod +x start.sh
+
 
 14. go back to lutris
 
