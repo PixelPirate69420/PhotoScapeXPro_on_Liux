@@ -28,6 +28,7 @@ when running the application dirrectly on X11 or Wayland Desktop Environments. N
 
 For a more comfortable daily use follow the next steps as well:
 11. install lutris (https://lutris.net/)
+
 12. navigate to the folder of PhotoScapeXPro
 13. create a script in terminal for starting the executable:
 
